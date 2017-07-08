@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracticaMovil1</string>
+    <string name="var_nuevo">Nuevo Cliente</string>
+    <string name="var_grabar">Grabar Cliente</string>
+    <string name="var_eliminar">Eliminar Cliente</string>
+    <string name="var_cod">Codigo:</string>
+    <string name="var_nom">Nombre:</string>
+    <string name="var_ape">Apellido:</string>
+    <string name="var_correo">Correo Electronico:</string>
+    <string name="var_edad">Edad:</string>
+    <string name="var_sexo">Seleccione un Sexo:</string>
+
+    <string-array name="var_sex">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
